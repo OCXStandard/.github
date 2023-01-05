@@ -14,5 +14,5 @@ The purpose of the Consortium is to:
 - Act as a source of information on the development and implementation of OCX standard in the maritime industry.
 - Encourage implementation and use of software interfaces according to the OCX standard.
 
-## Members
-[Current memebers of the OCX Consortium](https://3docx.org/members).
+## OCX Consortium Members
+[List of members](https://3docx.org/members).
