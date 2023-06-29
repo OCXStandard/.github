@@ -15,4 +15,4 @@ The purpose of the Consortium is to:
 - Encourage implementation and use of software interfaces according to the OCX standard.
 
 ## OCX Consortium Members
-[List of members](https://3docx.org/members).
+[List of members](https://www.3docx.org/members).
